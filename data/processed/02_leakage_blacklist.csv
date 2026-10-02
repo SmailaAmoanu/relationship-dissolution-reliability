@@ -1,0 +1,387 @@
+variable,label,reason
+w3_Weight,"Qualified respondents from 2017 Genpop sample, N=1539",Post-baseline: unavailable at 2017 forecast origin
+w3_Weight_LGB,"Qualified LGB respondents across all samples, N=249",Post-baseline: unavailable at 2017 forecast origin
+w3_combo_weight,wave 3 combined weights taking LGB oversample into account,Post-baseline: unavailable at 2017 forecast origin
+w3_attrition_adj_weight,w3_combo_weight adjusted for attrition from 2017 to 2022,Post-baseline: unavailable at 2017 forecast origin
+w2_weight_genpop,"Qualified respondents from 2017 Genpop sample, n=1866",Post-baseline: unavailable at 2017 forecast origin
+w2_weight_LGB,"Qualified LGB respondents across all samples, n=324",Post-baseline: unavailable at 2017 forecast origin
+w2_combo_weight,"combo of w2_weight_LGB and w2_weight_genpop, weighting the lgb down by 3.59",Post-baseline: unavailable at 2017 forecast origin
+w2_attrition_adj_weights,"inverse of prob of w2 answer times old w2 weight, inv_est_prob_wave2_complete*w2",Post-baseline: unavailable at 2017 forecast origin
+w3_xpartner_type,partner type going in to 2022 wave,Post-baseline: unavailable at 2017 forecast origin
+w3_xlast_contact_year,,Post-baseline: unavailable at 2017 forecast origin
+w3_xcohab,cohabitation status of last recorded relationship,Post-baseline: unavailable at 2017 forecast origin
+w3_xsamesex,same-sex couple status prior to 2022 wave,Post-baseline: unavailable at 2017 forecast origin
+w3_xlast_contact_mo,,Post-baseline: unavailable at 2017 forecast origin
+w3_xnamep_present,if w3_xnamep not missing,Post-baseline: unavailable at 2017 forecast origin
+w3_duration,Interview duration in minutes,Post-baseline: unavailable at 2017 forecast origin
+w3_gen_pop_sample,whether subject was in LGB oversample or original general population sample,Post-baseline: unavailable at 2017 forecast origin
+w3_ppage,Age,Post-baseline: unavailable at 2017 forecast origin
+w3_ppagecat,Age - 7 Categories,Post-baseline: unavailable at 2017 forecast origin
+w3_ppagect4,Age - 4 Categories,Post-baseline: unavailable at 2017 forecast origin
+w3_ppeduc,Education (Highest Degree Received),Post-baseline: unavailable at 2017 forecast origin
+w3_ppeducat,Education (Categorical),Post-baseline: unavailable at 2017 forecast origin
+w3_ppethm,Race / Ethnicity,Post-baseline: unavailable at 2017 forecast origin
+w3_ppgender,Gender,Post-baseline: unavailable at 2017 forecast origin
+w3_pphhhead,Household Head,Post-baseline: unavailable at 2017 forecast origin
+w3_pphhsize,Household Size,Post-baseline: unavailable at 2017 forecast origin
+w3_pphouse,Housing Type,Post-baseline: unavailable at 2017 forecast origin
+w3_ppincimp,Household Income,Post-baseline: unavailable at 2017 forecast origin
+w3_real_inc,w3 real income based on w3_ppincimp,Post-baseline: unavailable at 2017 forecast origin
+w3_log_real_inc,w3 ln income deflated to 2019 values =ln(w3_real_inc*.9435),Post-baseline: unavailable at 2017 forecast origin
+w3_ppmarit,Marital Status,Post-baseline: unavailable at 2017 forecast origin
+w3_ppmsacat,MSA Status,Post-baseline: unavailable at 2017 forecast origin
+w3_PPREG4,Region 4 - Based on State of Residence,Post-baseline: unavailable at 2017 forecast origin
+w3_ppreg9,Region 9 - Based on State of Residence,Post-baseline: unavailable at 2017 forecast origin
+w3_pprent,Ownership Status of Living Quarters,Post-baseline: unavailable at 2017 forecast origin
+w3_PPT01,Presence of Household Members - Children 0-1,Post-baseline: unavailable at 2017 forecast origin
+w3_PPT25,Presence of Household Members - Children 2-5,Post-baseline: unavailable at 2017 forecast origin
+w3_PPT612,Presence of Household Members - Children 6-12,Post-baseline: unavailable at 2017 forecast origin
+w3_total_kids_lt13,"total number of kids in HH <13 yoa, = w3_PPT01+ w3_PPT25+ w3_PPT612",Post-baseline: unavailable at 2017 forecast origin
+w3_PPT1317,Presence of Household Members - Children 13-17,Post-baseline: unavailable at 2017 forecast origin
+w3_PPT18OV,Presence of Household Members - Adults 18+,Post-baseline: unavailable at 2017 forecast origin
+w3_ppwork,Current Employment Status,Post-baseline: unavailable at 2017 forecast origin
+w3_surveyed,was subject surveyed in wave 3?,Post-baseline: unavailable at 2017 forecast origin
+w3_section,wave 3 survey section A-F,Post-baseline: unavailable at 2017 forecast origin
+w3_partner_type,wave 3 partner status,Post-baseline: unavailable at 2017 forecast origin
+w3_married,marital status in w3 based on w3_partner_type,Post-baseline: unavailable at 2017 forecast origin
+w3_otherdate,"in the past year have you met someone for dating, romance, or sex?",Post-baseline: unavailable at 2017 forecast origin
+w3_coronavirus_effect_combo,"has pandemic made relationship better or worse, Sections A-E",Post-baseline: unavailable at 2017 forecast origin
+w3_corona_effect_combo_reversed,RECODE of w3_coronavirus_effect_combo (has pandemic made relationship better or ,Post-baseline: unavailable at 2017 forecast origin
+w3_live_w_partner,"does respondent live w current partner, sections A-E",Post-baseline: unavailable at 2017 forecast origin
+w3_same_sex_couple,same-sex couple status in 2022 wave 3,Post-baseline: unavailable at 2017 forecast origin
+w3_marriage_dp,If you had a choice today or in the future between being married to [xnamep] or ,Post-baseline: unavailable at 2017 forecast origin
+w3_mar_dp_why_words,length of w3_marriage_dp_why in words,Post-baseline: unavailable at 2017 forecast origin
+w3_mar_dp_why_len,length of w3_marriage_dp_why in characters,Post-baseline: unavailable at 2017 forecast origin
+w3_mar_dp_why_sum,,Post-baseline: unavailable at 2017 forecast origin
+w3_rel_qual,"In general, how would you describe the quality of your relationship with [xnamep",Post-baseline: unavailable at 2017 forecast origin
+w3_Q23,"Between you and partner, who earned more in 2021? Sec A,C,E+ B+D prior partners",Post-baseline: unavailable at 2017 forecast origin
+w3_sex_frequency,"During the last 12 months, about how often did you have sex with [xnamep]? Was i",Post-baseline: unavailable at 2017 forecast origin
+w3_weekly_sex_frequency,sex frequency per week based on w3_sex_frequency,Post-baseline: unavailable at 2017 forecast origin
+w3_how_many,"How many Different people besides [xnamep] have you met for dating, or romance, ",Post-baseline: unavailable at 2017 forecast origin
+w3_how_many_corona,"During the coronavirus (also known as COVID-19) pandemic, have you been texting ",Post-baseline: unavailable at 2017 forecast origin
+w3_p_monogamy,Do you expect [xnamep] to have sexual activity only with you?,Post-baseline: unavailable at 2017 forecast origin
+w3_monogamy,Do YOU expect to have sex only with [xnamep]?,Post-baseline: unavailable at 2017 forecast origin
+w3_past_partners_gender_1,number of lifetime female sexual partners,Post-baseline: unavailable at 2017 forecast origin
+w3_past_partners_gender_2,number of lifetime male sexual partners,Post-baseline: unavailable at 2017 forecast origin
+w3_past_partners_gender_3,number of transgender or nonbinary partners,Post-baseline: unavailable at 2017 forecast origin
+w3_move_in_yr,year of newly reported first cohabitation w current partner,Post-baseline: unavailable at 2017 forecast origin
+w3_move_in_mo,month of newly reported first cohabitation w current partner,Post-baseline: unavailable at 2017 forecast origin
+w3_when_married_yr,year of newly reported marriage to current partner,Post-baseline: unavailable at 2017 forecast origin
+w3_when_married_month,month of newly reported marriage to current partner,Post-baseline: unavailable at 2017 forecast origin
+w3_why_not_cohab,Why don’t you and [xnamep] live together?,Post-baseline: unavailable at 2017 forecast origin
+w3_how_often,how often do you connect w Partner (not living together),Post-baseline: unavailable at 2017 forecast origin
+w3_how_communicate_1,"When you cannot see partner in person, do you communicate by phone call?",Post-baseline: unavailable at 2017 forecast origin
+w3_how_communicate_2,"When you cannot see partner in person, do you communicate by video chat?",Post-baseline: unavailable at 2017 forecast origin
+w3_how_communicate_3,"When cannot see partner, do you communicate by commenting on social media?",Post-baseline: unavailable at 2017 forecast origin
+w3_how_communicate_4,"When you cannot see partner, do you communicate by texting?",Post-baseline: unavailable at 2017 forecast origin
+w3_how_communicate_5,"When cannot see in person, communicate other ways",Post-baseline: unavailable at 2017 forecast origin
+w3_flirt,How often do you flirt w Partner through phone app or computer?,Post-baseline: unavailable at 2017 forecast origin
+w3_flirt_other,How often do you flirt online w anyone other than partner (if partnered)?,Post-baseline: unavailable at 2017 forecast origin
+w3_fight,"In the last 7 days, how many times did you and [xnamep] argue or fight?",Post-baseline: unavailable at 2017 forecast origin
+w3_shelter,How long have you lived in a “shelter-in-place” or “lockdown” situation since th,Post-baseline: unavailable at 2017 forecast origin
+w3_shelter_4,[Dropdown] How long have you lived in a “shelter-in-place” or “lockdown” situati,Post-baseline: unavailable at 2017 forecast origin
+w3_nonshelter,Why have you NOT been under lockdown during the coronavirus (also known as COVID,Post-baseline: unavailable at 2017 forecast origin
+w3_shelter_combo_months,months lived under shelter in place by wave 3,Post-baseline: unavailable at 2017 forecast origin
+w3_WFH,During the pandemic have you been working from home more than before?,Post-baseline: unavailable at 2017 forecast origin
+w3_more_WFH,has subject been working at home more than before the pandemic,Post-baseline: unavailable at 2017 forecast origin
+w3_WFH_future,Do you hope to work more from home in the future compared to before the pandemic,Post-baseline: unavailable at 2017 forecast origin
+w3_myhealth,"During the coronavirus pandemic, have you been sick?",Post-baseline: unavailable at 2017 forecast origin
+w3_myhealth_why_1,"[I have been sick from the coronavirus, also known as COVID-19] During the coron",Post-baseline: unavailable at 2017 forecast origin
+w3_myhealth_why_2,"[I have had another disease or ailment] During the coronavirus pandemic, what ha",Post-baseline: unavailable at 2017 forecast origin
+w3_subject_had_COVID,"had subject been sick from COVID, based on w3_myhealth_why_1",Post-baseline: unavailable at 2017 forecast origin
+w3_corona_vaccine,Are you fully vaccinated against COVID-19?,Post-baseline: unavailable at 2017 forecast origin
+w3_partner_corona_vaccine,Is [xnamep] fully vaccinated against COVID-19?,Post-baseline: unavailable at 2017 forecast origin
+w3_vaccine_same,"did subject, partner have same vaccine status from w3_corona_vaccine and w3_part",Post-baseline: unavailable at 2017 forecast origin
+w3_corona_test,"Were you ever tested for the coronavirus, also known as COVID-19?",Post-baseline: unavailable at 2017 forecast origin
+w3_parthealth,"During the coronavirus pandemic, has [xnamep] been sick?",Post-baseline: unavailable at 2017 forecast origin
+w3_parthealth_why_1,"[[xnamep] been sick from the coronavirus, also known as COVID-19] During the cor",Post-baseline: unavailable at 2017 forecast origin
+w3_parthealth_why_2,"[[xnamep] has had another disease or ailment] During the coronavirus pandemic, w",Post-baseline: unavailable at 2017 forecast origin
+w3_partner_had_COVID,"had partner been sick from COVID, based on w3_parthealth_why_1",Post-baseline: unavailable at 2017 forecast origin
+w3_partcorona_test,"Was [xnamep] ever tested for the coronavirus, also known as COVID-19?",Post-baseline: unavailable at 2017 forecast origin
+w3_pandemic_income,How has the coronavirus (also known as COVID-19) pandemic affected your personal,Post-baseline: unavailable at 2017 forecast origin
+w3_pandemic_income_collapsed,collapsed version of w3_pandemic_income,Post-baseline: unavailable at 2017 forecast origin
+w3_covid_masking,If public health officials said it was important for you to wear a mask and to m,Post-baseline: unavailable at 2017 forecast origin
+w3_COVID_agreement,Do you and [xnamep] agree about what measures to take to stay safe during the pa,Post-baseline: unavailable at 2017 forecast origin
+w3_covid_complete_agree,"complete agreement w partner about COVID, from w3_COVID_agreement",Post-baseline: unavailable at 2017 forecast origin
+w3_government_response,Do you think the government should mandate that citizens eligible for the vaccin,Post-baseline: unavailable at 2017 forecast origin
+w3_relatives,How many of your relatives do you see in person at least once a month?,Post-baseline: unavailable at 2017 forecast origin
+w3_relationship_end_combo,Wave 3 reports of relationships ending,Post-baseline: unavailable at 2017 forecast origin
+w3_who_breakup,"Between you and [xnamep], who wanted the [divorce/separation] more?",Post-baseline: unavailable at 2017 forecast origin
+w3_women_wanted_breakup,women wanted breakup for hetero breakups,Post-baseline: unavailable at 2017 forecast origin
+w3_partner_type_for_het_breakups,couple type for het breakups,Post-baseline: unavailable at 2017 forecast origin
+w3_breakup_year,wave 3 breakup year for sections A-E,Post-baseline: unavailable at 2017 forecast origin
+w3_breakup_month,month of wave 3 breakup sections A-E,Post-baseline: unavailable at 2017 forecast origin
+w3_partner_passaway_year,wave 3 partners deceased year,Post-baseline: unavailable at 2017 forecast origin
+w3_partner_passaway_month,wave 3 partners deceased month,Post-baseline: unavailable at 2017 forecast origin
+w3_new_relationship,Are you in a New relationship Now (after [xnamep])?,Post-baseline: unavailable at 2017 forecast origin
+w3_coronavirus_effect_dating,How has the coronavirus (also known as COVID-19) pandemic affected your ability ,Post-baseline: unavailable at 2017 forecast origin
+w3_corona_longing,Did you find that during the coronavirus (also known as COVID-19) pandemic you l,Post-baseline: unavailable at 2017 forecast origin
+w3_app_use,During the coronavirus (also known as COVID-19) pandemic are you using dating ap,Post-baseline: unavailable at 2017 forecast origin
+w3_Q4,new partner's gender,Post-baseline: unavailable at 2017 forecast origin
+w3_Q5,new partner a same-sex partner?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q6A,new partner Latino?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q6B,new partner's race,Post-baseline: unavailable at 2017 forecast origin
+w3_Q9,new partner's age,Post-baseline: unavailable at 2017 forecast origin
+w3_Q10,new partner educational attainment,Post-baseline: unavailable at 2017 forecast origin
+w3_Q11,new partner's Mother's educational attainment,Post-baseline: unavailable at 2017 forecast origin
+w3_Q12,new partner political identity,Post-baseline: unavailable at 2017 forecast origin
+w3_Q20,ever lived with new partner (if not living w partner at wave 3),Post-baseline: unavailable at 2017 forecast origin
+w3_how_far_apart,How far is [xnamep]’s home from your home?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21A_year,in what Year did you first meet partner_name?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21A_month,[Month] In what Year and Month did you first meet [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21B_year,[Year] In what year and month did your romantic relationship with [Partner_Name],Post-baseline: unavailable at 2017 forecast origin
+w3_Q21B_month,[Month] In what year and month did your romantic relationship with [Partner_Name,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21C_year,[Year] In what year and month did you first live together with [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21C_month,[Month] In what year and month did you first live together with [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21D_year,[Year] In what Year and Month did you marry [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21D_month,[Month] In what Year and Month did you marry [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21E_year,year of breakup new relationship reported in w3,Post-baseline: unavailable at 2017 forecast origin
+w3_Q21E_month,month of breakup new relationship reported in w3,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_length,length in characters of w3_q24 how met answer,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_R_friend,Respondent's friend: intermediary,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_P_friend,Partner's Friend: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_I_friend,friendship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_R_cowork,Respondent's coworker: indermediary or partner,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_R_family,Respondent's family: intermediary,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_R_sig_other,Respondent's (current or past) Significant Other: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_R_neighbor,Respondent's residential neighbor: intermediary or Partner,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_P_cowork,Partner's coworker: Intermediary or Respondent,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_P_family,Partner's Family: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_P_sig_other,Partner's (current or past) Significant Other: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_P_neighbor,Partner's residential neighbor: Intermediary or Respondent,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_I_cowork,coworker relationship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_I_family,family relationship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_I_sig_other,significant other relationship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_I_neighbor,intermediaries are neighbors,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_school,met in primary or secondary school,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_college,met in college,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_mil,met during military service,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_church,met in or through church or religious organization,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_vol_org,met through voluntary organization (non-church),Post-baseline: unavailable at 2017 forecast origin
+w3_q24_customer,customer-client relationship,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_bar_restaurant,"bar, restaurant, or othe public social gathering place",Post-baseline: unavailable at 2017 forecast origin
+w3_q24_party,private party,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_internet_other,"Internet, not otherwise classified",Post-baseline: unavailable at 2017 forecast origin
+w3_q24_internet_dating,met through Internet dating or phone app,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_internet_soc_network,met through internet social networking,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_internet_game,met through online gaming,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_internet_chat,met through Internet chat,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_internet_org,met through Internet site not mainly dedicated to dating,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_public,met in public place,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_blind_date,met on blind date,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_vacation,met while on vacation,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_singles_serve_nonint,non internet single service,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_business_trip,met while on business trip,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_work_neighbors,met as work neighbors,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_summary_all_codes,=rowtotal( w3_q24_R_friend- w3_q24_work_neighbors),Post-baseline: unavailable at 2017 forecast origin
+w3_q24_met_online,"met online, all kinds",Post-baseline: unavailable at 2017 forecast origin
+w3_q24_met_through_friend,1 if R_friend or P_friend=1,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_met_through_family,1 if R_family or P_family =1,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_met_through_as_nghbrs,=1 if R_neighbor or P_neighbor=1,Post-baseline: unavailable at 2017 forecast origin
+w3_q24_met_as_through_cowork,1 if R_cowork or P_cowork=1,Post-baseline: unavailable at 2017 forecast origin
+w3_Q25,Did you and [Partner_Name] attend the same high school?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q26,Did you and [Partner_Name] attend the same college or university?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q27,Did you and [Partner_Name] grow up in the same city or town?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q28,Did your parents know [Partner_Name]’s parents before you met [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w3_Q32,Did you use an Internet service to meet [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w3_friend_connect_1,I knew one (or more) of [Partner_Name]'s friends before meeting [Partner_Name].,Post-baseline: unavailable at 2017 forecast origin
+w3_friend_connect_2,[Partner_Name] knew one (or more) of my friends before I met [Partner_Name].,Post-baseline: unavailable at 2017 forecast origin
+w3_friend_connect_3,One (or more) of my friends knew one (or more) of [Partner_Name]'s friends befor,Post-baseline: unavailable at 2017 forecast origin
+w3_friend_connect_4,None of the above.,Post-baseline: unavailable at 2017 forecast origin
+w3_partner_source,"for partners current in wave 3, which wave was partner first reported",Post-baseline: unavailable at 2017 forecast origin
+w3_month_rel_started,"months after jan 1960 when relationship started for rels active in w3, from q21b",Post-baseline: unavailable at 2017 forecast origin
+w3_month_interview,month of wave 3 interview,Post-baseline: unavailable at 2017 forecast origin
+w3_relationship_duration_mos,duration in months of relationships still intact at wave 3,Post-baseline: unavailable at 2017 forecast origin
+w3_relationship_duration_yrs,duration in years of relationships still intact at wave 3,Post-baseline: unavailable at 2017 forecast origin
+w3_breakup_source,"for breakups or partner death reported in wave 3, what wave was rel first report",Post-baseline: unavailable at 2017 forecast origin
+w2_month_of_survey,=(month((dofc(tm_finish)))) +((2020-1960)*12)-1,Post-baseline: unavailable at 2017 forecast origin
+w2_xpartner_type,partner type from 2017,Post-baseline: unavailable at 2017 forecast origin
+w2_xcohab,was subject living with partner in 2017,Post-baseline: unavailable at 2017 forecast origin
+w2_xpppa_lgb_num,numeric version of pppa_lgb,Post-baseline: unavailable at 2017 forecast origin
+w2_lgb,dichotomous based on xpppa_lgb_num,Post-baseline: unavailable at 2017 forecast origin
+w2_duration,Interview duration in minutes,Post-baseline: unavailable at 2017 forecast origin
+w2_ppage,Age,Post-baseline: unavailable at 2017 forecast origin
+w2_ppagecat,Age - 7 Categories,Post-baseline: unavailable at 2017 forecast origin
+w2_ppagect4,Age - 4 Categories,Post-baseline: unavailable at 2017 forecast origin
+w2_ppeduc,Education (Highest Degree Received),Post-baseline: unavailable at 2017 forecast origin
+w2_ppeducat,Education (Categorical),Post-baseline: unavailable at 2017 forecast origin
+w2_BA,"BA+, from w2_ppeducat",Post-baseline: unavailable at 2017 forecast origin
+w2_ppethm,Race / Ethnicity,Post-baseline: unavailable at 2017 forecast origin
+w2_ppgender,Gender,Post-baseline: unavailable at 2017 forecast origin
+w2_pphhhead,Household Head,Post-baseline: unavailable at 2017 forecast origin
+w2_pphhsize,Household Size,Post-baseline: unavailable at 2017 forecast origin
+w2_pphouse,Housing Type,Post-baseline: unavailable at 2017 forecast origin
+w2_ppincimp,Household Income,Post-baseline: unavailable at 2017 forecast origin
+w2_income_real,based on w2_ppincimp,Post-baseline: unavailable at 2017 forecast origin
+w2_log_real_inc,=ln(w2_income_real),Post-baseline: unavailable at 2017 forecast origin
+w2_ppmsacat,MSA Status,Post-baseline: unavailable at 2017 forecast origin
+w2_PPREG4,Region 4 - Based on State of Residence,Post-baseline: unavailable at 2017 forecast origin
+w2_ppreg9,Region 9 - Based on State of Residence,Post-baseline: unavailable at 2017 forecast origin
+w2_pprent,Ownership Status of Living Quarters,Post-baseline: unavailable at 2017 forecast origin
+w2_PPT01,Presence of Household Members - Children 0-1,Post-baseline: unavailable at 2017 forecast origin
+w2_PPT25,Presence of Household Members - Children 2-5,Post-baseline: unavailable at 2017 forecast origin
+w2_PPT612,Presence of Household Members - Children 6-12,Post-baseline: unavailable at 2017 forecast origin
+w2_kids_lt13,"yes/no, is resp living with at least one child <13 yoa",Post-baseline: unavailable at 2017 forecast origin
+w2_total_kids_lt13,total number of w2 kids <13 yoa,Post-baseline: unavailable at 2017 forecast origin
+w2_PPT1317,Presence of Household Members - Children 13-17,Post-baseline: unavailable at 2017 forecast origin
+w2_PPT18OV,Presence of Household Members - Adults 18+,Post-baseline: unavailable at 2017 forecast origin
+w2_ppwork,Current Employment Status,Post-baseline: unavailable at 2017 forecast origin
+w2_surveyed,was subject surveyed in wave 2?,Post-baseline: unavailable at 2017 forecast origin
+w2_coronavirus_effect_combo,"is relationship better or worse, A-E sets",Post-baseline: unavailable at 2017 forecast origin
+w2_corona_effect_combo_reversed,same as w2_coronavirus_effect_combo but with better rel= higher score,Post-baseline: unavailable at 2017 forecast origin
+w2_pandemic_income_combo,is econ situation better or worse during pandemic,Post-baseline: unavailable at 2017 forecast origin
+w2_app_use_combo,more or less dating app use than before for single people,Post-baseline: unavailable at 2017 forecast origin
+w2_rel_qual_combo,relationship quality,Post-baseline: unavailable at 2017 forecast origin
+w2_rel_qual_reduced,w2_rel_qual_combo with collapsed categories,Post-baseline: unavailable at 2017 forecast origin
+w2_partner_type,partner type at wave 2,Post-baseline: unavailable at 2017 forecast origin
+w2_married,based on w2_partner_type,Post-baseline: unavailable at 2017 forecast origin
+w2_partner_type_cohab,"partnership status at w2, based on w2_partner_type and w2_cohab",Post-baseline: unavailable at 2017 forecast origin
+w2_live_w_partner,live with partner or not based on w2_cohab & w2_partner_type_cohab,Post-baseline: unavailable at 2017 forecast origin
+w2_Q20,Have you ever lived together with [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_same_sex_couple,"same-sex couple based on w1_same_sex_couple and Q5_B,D,E",Post-baseline: unavailable at 2017 forecast origin
+w2_lesbian,woman with same-sex partner,Post-baseline: unavailable at 2017 forecast origin
+w2_cohab,cohabiting with spouse or partner at wave 2,Post-baseline: unavailable at 2017 forecast origin
+w2_section,wave 2 survey section A-F,Post-baseline: unavailable at 2017 forecast origin
+w2_Q21B_yr,year of relationship formation for new relationships recorded in 2020,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_length,length in characters of w2_q24 how met answer,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_R_friend,Respondent's friend: intermediary,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_P_friend,Partner's Friend: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_I_friend,friendship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_R_cowork,Respondent's coworker: indermediary or partner,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_R_family,Respondent's family: intermediary,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_R_sig_other,Respondent's (current or past) Significant Other: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_R_neighbor,Respondent's residential neighbor: intermediary or Partner,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_P_cowork,Partner's coworker: Intermediary or Respondent,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_P_family,Partner's Family: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_P_sig_other,Partner's (current or past) Significant Other: Intermediary,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_P_neighbor,Partner's residential neighbor: Intermediary or Respondent,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_I_cowork,coworker relationship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_I_family,family relationship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_I_sig_other,significant other relationship between intermediaries,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_I_neighbor,intermediaries are neighbors,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_school,met in primary or secondary school,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_college,met in college,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_mil,met during military service,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_church,met in or through church or religious organization,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_vol_org,met through voluntary organization (non-church),Post-baseline: unavailable at 2017 forecast origin
+w2_q24_customer,customer-client relationship,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_bar_restaurant,"bar, restaurant, or othe public social gathering place",Post-baseline: unavailable at 2017 forecast origin
+w2_q24_party,private party,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_internet_other,"Internet, not otherwise classified",Post-baseline: unavailable at 2017 forecast origin
+w2_q24_internet_dating,met through Internet dating or phone app,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_internet_soc_network,met through internet social networking,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_internet_game,met through online gaming,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_internet_chat,met through Internet chat,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_internet_org,met through Internet site not mainly dedicated to dating,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_public,met in public place,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_blind_date,met on blind date,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_vacation,met while on vacation,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_singles_serve_nonint,non internet single service,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_business_trip,met while on business trip,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_work_neighbors,met as work neighbors,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_summary_all_codes_test,=rowtotal( w2_q24_R_friend- w2_q24_work_neighbors),Post-baseline: unavailable at 2017 forecast origin
+w2_q24_met_through_friend,1 if R_friend or P_friend=1,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_met_through_family,1 if R_family or P_family =1,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_met_through_as_nghbrs,=1 if R_neighbor or P_neighbor=1,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_met_as_through_cowork,1 if R_cowork or P_cowork=1,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_met_online,"met online, all kinds",Post-baseline: unavailable at 2017 forecast origin
+w2_q24_answered,was w2_q24 answered in a codeable way,Post-baseline: unavailable at 2017 forecast origin
+w2_q24_coworkers,"combo of w2_q24 R,P, and I cowork",Post-baseline: unavailable at 2017 forecast origin
+w2_who_breakup_combo,who wanted the breakup,Post-baseline: unavailable at 2017 forecast origin
+w2_otherdate_combo,"have met anyone in past year for dating, romance or sex? from w2_otherdate*",Post-baseline: unavailable at 2017 forecast origin
+w2_how_many_combo,"if you met people for romance dating or sex, how many? from w2_how_many*",Post-baseline: unavailable at 2017 forecast origin
+w2_how_many_corona_combo,"during COVID, texting w more or fewer people? from w2_how_many_corona*",Post-baseline: unavailable at 2017 forecast origin
+w2_number_people_met,met how many new people in the past 12 mos from w2_how_many_combo,Post-baseline: unavailable at 2017 forecast origin
+w2_corona_effect_dating_combo,easier or harder to meet? based on w2_coronavirus_effect_dating_*,Post-baseline: unavailable at 2017 forecast origin
+w2_shelter_combo_months,"months sheltering in place at survey 2020, from w2_shelter*",Post-baseline: unavailable at 2017 forecast origin
+w2_corona_longing_combo,"more or less longing for relationship, based on w2_corona_longing*",Post-baseline: unavailable at 2017 forecast origin
+w2_breakup_year,breakups recorded sections A-E,Post-baseline: unavailable at 2017 forecast origin
+w2_breakup_month,breakups recorded sections A-E,Post-baseline: unavailable at 2017 forecast origin
+w2_covid_breakup,"did COVID affect decision to break up, sections A-E",Post-baseline: unavailable at 2017 forecast origin
+w2_breakup_month_tm,breakup month in stata format=((w2_breakup_year-1960)*12)+ w2_breakup_month-1,Post-baseline: unavailable at 2017 forecast origin
+w2_yr_relationship_started,based on w1_q21b_year & Q21B* from wave 2,Post-baseline: unavailable at 2017 forecast origin
+w2_relationship_start_calmonth, w2 rel formation ((w2_q21b_year-1960)*12)+ w2_q21b_month-1,Post-baseline: unavailable at 2017 forecast origin
+w2_new_relationship,new relationships recorded in wave 2,Post-baseline: unavailable at 2017 forecast origin
+w2_q21a_year,w2 year subject met partner,Post-baseline: unavailable at 2017 forecast origin
+w2_q21a_month,w2 month of year in which subject met partner,Post-baseline: unavailable at 2017 forecast origin
+w2_q21b_year," year relationship started from Q21B,D,E",Post-baseline: unavailable at 2017 forecast origin
+w2_q21b_month,"month relationship started from Q21B,D,E",Post-baseline: unavailable at 2017 forecast origin
+w2_q21c_year,[Year] In what year and month did you first live together with [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_q21c_month,[Month] In what year and month did you first live together with [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_q21d_year,[Year] In what Year and Month did you marry [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_q21d_month,[Month] In what Year and Month did you marry [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_q21e_year,Year of breakup of new relationship,Post-baseline: unavailable at 2017 forecast origin
+w2_q21e_month,month of breakup new relationship,Post-baseline: unavailable at 2017 forecast origin
+w2_met_month, months from jan 1960= ((w2_q21a_year-1960)*12)+ w2_q21a_month-1,Post-baseline: unavailable at 2017 forecast origin
+w2_sex_frequency,categorical sex frequency from w2_sex_frequency*,Post-baseline: unavailable at 2017 forecast origin
+w2_weekly_sex_frequency,weekly sex w partner based on w2_sex_frequency,Post-baseline: unavailable at 2017 forecast origin
+w2_relationship_duration,2020 relationship duration regardless of 2017 status,Post-baseline: unavailable at 2017 forecast origin
+w2_relatives,How many of your relatives do you see in person at least once a month? Include p,Post-baseline: unavailable at 2017 forecast origin
+w2_women_wanted_breakup,based on w2_who_breakup_combo for hetero couples,Post-baseline: unavailable at 2017 forecast origin
+w2_partner_type_for_het_breakups,partner type prior to w2 breakups,Post-baseline: unavailable at 2017 forecast origin
+w2_Q23_old,earning comparison with old partner,Post-baseline: unavailable at 2017 forecast origin
+w2_Q23_new,earning comparison with new partner,Post-baseline: unavailable at 2017 forecast origin
+w2_p_monogamy,Do you expect [xnamep] to have sexual activity only with you?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q21A_1,[Year] In what Year and Month did you first meet [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q21A_2,[Month] In what Year and Month did you first meet [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q21B_1,[Year] In what year and month did your romantic relationship with [Partner_Name],Post-baseline: unavailable at 2017 forecast origin
+w2_Q21B_2,[Month] In what year and month did your romantic relationship with [Partner_Name,Post-baseline: unavailable at 2017 forecast origin
+w2_move_in_yr,move in year for pre-existing relationships,Post-baseline: unavailable at 2017 forecast origin
+w2_move_in_mo,[Month] When did you and xnamep move in together?,Post-baseline: unavailable at 2017 forecast origin
+w2_move_in_2020,Did the coronavirus (also known as COVID-19) pandemic affect your decision to mo,Post-baseline: unavailable at 2017 forecast origin
+w2_separation_timing_1_1,[Year] when did you and xnamep separate?,Post-baseline: unavailable at 2017 forecast origin
+w2_separation_timing_1_2,[Month] when did you and xnamep separate?,Post-baseline: unavailable at 2017 forecast origin
+w2_separation_timing_2020,Did the coronavirus (also known as COVID-19) pandemic affect your decision to se,Post-baseline: unavailable at 2017 forecast origin
+w2_how_far_apart,How far is [xnamep]s home from your home?,Post-baseline: unavailable at 2017 forecast origin
+w2_why_not_cohab,Why dont you and [xnamep] live together?,Post-baseline: unavailable at 2017 forecast origin
+w2_how_often,how often do you have phone or personal contact with non-coresidential partner?,Post-baseline: unavailable at 2017 forecast origin
+w2_how_communicate_1,[Phone call (voice only)] How do you and [xnamep] communicate when you can Not s,Post-baseline: unavailable at 2017 forecast origin
+w2_how_communicate_2,"[Video chat via Skype, Zoom, Google hangouts, FaceTime, etc] How do you and [xna",Post-baseline: unavailable at 2017 forecast origin
+w2_how_communicate_3,"[Liking and commenting on each others Social Media (Facebook, etc) posts] How d",Post-baseline: unavailable at 2017 forecast origin
+w2_how_communicate_4,"[Texting by phone and Messaging via Facebook Messenger, WhatsApp, etc] How do yo",Post-baseline: unavailable at 2017 forecast origin
+w2_how_communicate_5,[Other] How do you and [xnamep] communicate when you can Not see each other in p,Post-baseline: unavailable at 2017 forecast origin
+w2_flirt,How often do you flirt with [xnamep] online (through a phone app or on your comp,Post-baseline: unavailable at 2017 forecast origin
+w2_flirt_other,How often do you flirt online with people who are NOT [xnamep]?,Post-baseline: unavailable at 2017 forecast origin
+w2_fight,"In the last 7 days, how many times did you and [xnamep] argue or fight?",Post-baseline: unavailable at 2017 forecast origin
+w2_nonshelter,Why have you NOT been under lockdown during the coronavirus (also known as COVID,Post-baseline: unavailable at 2017 forecast origin
+w2_myhealth,"During the coronavirus pandemic, have you been sick?",Post-baseline: unavailable at 2017 forecast origin
+w2_myhealth_why_1,"[I have been sick from the coronavirus, also known as COVID-19] During the coron",Post-baseline: unavailable at 2017 forecast origin
+w2_myhealth_why_2,"[I have had another disease or ailment] During the coronavirus pandemic, what ha",Post-baseline: unavailable at 2017 forecast origin
+w2_corona_test,"Were you ever tested for the coronavirus, also known as COVID-19?",Post-baseline: unavailable at 2017 forecast origin
+w2_parthealth,has partner (from w1) been sick during the pandemic?,Post-baseline: unavailable at 2017 forecast origin
+w2_parthealth_why_1,"[[xnamep] been sick from the coronavirus, also known as COVID-19] During the cor",Post-baseline: unavailable at 2017 forecast origin
+w2_parthealth_why_2,"[[xnamep] has had another disease or ailment] During the coronavirus pandemic, w",Post-baseline: unavailable at 2017 forecast origin
+w2_partcorona_test,"Was [xnamep] ever tested for the coronavirus, also known as COVID-19?",Post-baseline: unavailable at 2017 forecast origin
+w2_partcorona_test_new,"Was [partner_name] ever tested for the coronavirus, also known as COVID-19?",Post-baseline: unavailable at 2017 forecast origin
+w2_roommates,Has the coronavirus (also known as COVID-19) pandemic caused you to move IN with,Post-baseline: unavailable at 2017 forecast origin
+w2_roommates_who_1,[Friends] Who are the NEW people that the coronavirus (also known as COVID-19) p,Post-baseline: unavailable at 2017 forecast origin
+w2_roommates_who_2,[Family] Who are the NEW people that the coronavirus (also known as COVID-19) pa,Post-baseline: unavailable at 2017 forecast origin
+w2_roommates_who_3,[Roommates] Who are the NEW people that the coronavirus (also known as COVID-19),Post-baseline: unavailable at 2017 forecast origin
+w2_roommates_who_4,[Other] Who are the NEW people that the coronavirus (also known as COVID-19) pan,Post-baseline: unavailable at 2017 forecast origin
+w2_exroommates,"Not including [Xnamep], has the coronavirus (also known as COVID-19) pandemic ca",Post-baseline: unavailable at 2017 forecast origin
+w2_relationship_end,relationships ends reported in wave 2,Post-baseline: unavailable at 2017 forecast origin
+w2_relationship_end_yr,year relationship ended,Post-baseline: unavailable at 2017 forecast origin
+w2_relationship_end_mo,month relationship ended,Post-baseline: unavailable at 2017 forecast origin
+w2_partner_passaway_yr,year partner passed away,Post-baseline: unavailable at 2017 forecast origin
+w2_partner_passaway_month,month partner passed away,Post-baseline: unavailable at 2017 forecast origin
+w2_Q4,Is [Partner_Name] Male or Female?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q5,Is [Partner_Name] the same sex as you?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q6A,Is [Partner_Name] Latino or Hispanic?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q6B,What is [Partner_Name]s race?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q9,How old is [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q10,What is the highest level of schooling [Partner_Name] has completed?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q11,What is the highest level of schooling [Partner_Name]s MOTHER has completed? If,Post-baseline: unavailable at 2017 forecast origin
+w2_Q12,"Generally speaking, does [Partner_Name] think of [if Q4=1, insert himself; if ",Post-baseline: unavailable at 2017 forecast origin
+w2_live_together_2020,Did the coronavirus (also known as COVID-19) pandemic affect your decision to mo,Post-baseline: unavailable at 2017 forecast origin
+w2_relationship_progress_2020,Did you progress in this relationship with [partner_name] differently than with ,Post-baseline: unavailable at 2017 forecast origin
+w2_Q25,Did you and [Partner_Name] attend the same high school?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q26,Did you and [Partner_Name] attend the same college or university?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q27,Did you and [Partner_Name] grow up in the same city or town?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q28,Did your parents know [Partner_Name] parents before you met [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_Q32,Did you use an Internet service to meet [Partner_Name]?,Post-baseline: unavailable at 2017 forecast origin
+w2_friend_connect_1,[I knew one (or more) of [Partner_Name]'s friends before meeting [Partner_Name]],Post-baseline: unavailable at 2017 forecast origin
+w2_friend_connect_2,[[Partner_Name] knew one (or more) of my friends before I met [Partner_Name]] Ch,Post-baseline: unavailable at 2017 forecast origin
+w2_friend_connect_3,[One (or more) of my friends knew one (or more) of [Partner_Name]'s friends befo,Post-baseline: unavailable at 2017 forecast origin
+w2_friend_connect_4,[None of the above] Choose ALL that apply,Post-baseline: unavailable at 2017 forecast origin
+w1_weight_combo_freqwt,frequency weight version of weight_combo,Administrative/identifier/weight; not a substantive predictor
+w1_duration,Interview duration in minutes,Administrative/identifier/weight; not a substantive predictor

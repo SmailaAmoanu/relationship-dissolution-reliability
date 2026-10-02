@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying manuscript and the HCMST data source."
+title: "Reliability of Computational Predictions in Longitudinal Social Data"
+type: software
+authors:
+  - family-names: Amoanu
+    given-names: Smaila
+affiliation: "University of Nevada, Reno"
+year: 2026
+repository-code: "https://github.com/SmailaAmoanu/relationship-dissolution-reliability"
+keywords:
+  - longitudinal prediction
+  - relationship dissolution
+  - predictive reliability
+  - calibration
+  - conformal prediction
+  - explainability
+  - class imbalance

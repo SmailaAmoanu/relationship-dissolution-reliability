@@ -1,0 +1,26 @@
+variable,analysis_name,group,type,stata_label,missing_n_baseline,missing_pct_baseline,unique_nonmissing
+w1_ppage,Respondent age,Demographic,numeric,Age,0,0.0,75
+w1_ppgender,Respondent gender,Demographic,categorical,Gender,0,0.0,2
+w1_ppethm,Race / ethnicity,Demographic,categorical,Race / Ethnicity,0,0.0,5
+w1_ppeducat,Education,Socioeconomic,ordinal/categorical,Education (Categorical),0,0.0,4
+w1_ppincimp,Household income,Socioeconomic,ordinal/categorical,Household Income,0,0.0,21
+w1_ppwork,Employment status,Socioeconomic,categorical,Current Employment Status,0,0.0,7
+w1_pphhsize,Household size,Household,numeric,Household Size,0,0.0,11
+w1_PPREG4,U.S. census region,Demographic,categorical,Region 4 - Based on State of Residence,0,0.0,4
+w1_ppp20072,Religious-service attendance,Demographic/context,ordinal/categorical,Q27: How often do you attend religious services?,6,0.20964360587002098,7
+w1_q9,Partner age,Couple structure,numeric,partner age in 2017,6,0.20964360587002098,79
+w1_partner_yrsed,Partner education (years recode),Couple structure,numeric,RECODE of w1_q10 (partner's educational attainment),10,0.3494060097833683,13
+w1_partnership_status_cohab,Marriage/cohabitation arrangement,Relationship,categorical,partnerships status at w1 based on w1_partnership_status and w1_q19,0,0.0,3
+w1_relate_duration_in2017_years,Relationship duration in 2017,Relationship,numeric,july 2017-year and month when rel started (Q21B) if has current rel,97,3.3892382948986723,692
+w1_q34_reduced,Relationship quality (collapsed),Relationship,ordinal/categorical,w1_q34 with collapsed categories,15,0.5241090146750524,3
+w1_sex_frequency,Sex frequency with partner,Relationship behavior,ordinal/categorical,"During the last 12 months, about how often did you have sex with [Partner name]?",6,0.20964360587002098,6
+w1_q23,Relative earnings within couple,Socioeconomic/couple,categorical,Who earned more (in 2016 or when last together),6,0.20964360587002098,5
+w1_q19,Currently living with partner,Relationship,categorical,Are you currently living with [partner name]?,10,0.3494060097833683,2
+w1_q17,Number of times respondent married,Relationship history,numeric/categorical,times subject has married,14,0.4891684136967156,5
+w1_either_internet_adjusted,Met online,Meeting context,binary,"met online, combo of q24 and q32",6,0.20964360587002098,2
+w1_q24_met_through_friend,Met through friend,Meeting context,binary,1 if R_friend or P_friend=1,76,2.655485674353599,2
+w1_q24_met_through_family,Met through family,Meeting context,binary,1 if R_family or P_family =1,76,2.655485674353599,2
+w1_q24_met_as_through_cowork,Met through/as coworker,Meeting context,binary,1 if R_cowork or P_cowork=1,76,2.655485674353599,2
+w1_q24_church,Met through church/religious organization,Meeting context,binary,met in or through church or religious organization,76,2.655485674353599,2
+w1_interracial_5cat,Interracial couple indicator,Couple context,binary,based on w1_subject_race and w1_q6b,30,1.0482180293501049,2
+w1_same_sex_couple,Same-sex couple indicator,Couple context,binary,based on w1_prior_identity_lgb ==1 & w1_q5==1,6,0.20964360587002098,2

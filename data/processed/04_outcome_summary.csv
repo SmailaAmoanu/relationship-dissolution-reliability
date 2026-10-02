@@ -1,0 +1,3 @@
+horizon,observed_N,dissolved_N,continued_N,competing_deaths_N,unweighted_rate_pct,weighted_rate_pct,status
+2017 to 2020,1675,183,1492,41,10.925373134328359,14.871944075983496,Primary endpoint
+2017 to 2022,1388,218,1170,66,15.706051873198849,,Cumulative endpoint reconstructed using relationship-source flags

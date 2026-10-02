@@ -1,0 +1,501 @@
+horizon,seed,variable,feature,rank,importance
+3-year,101,w1_q19,Lives with partner,1,0.27523175856238935
+3-year,101,w1_partnership_status_cohab,Relationship arrangement,2,0.12848090829732167
+3-year,101,w1_relate_duration_in2017_years,Relationship duration,3,0.1243290987133303
+3-year,101,w1_q34_reduced,Relationship quality,4,0.06339299207920233
+3-year,101,w1_q9,Partner age,5,0.06277308470010332
+3-year,101,w1_ppage,Age,6,0.05700638425692964
+3-year,101,w1_q17,Prior marriages,7,0.049380126403368634
+3-year,101,w1_pphhsize,Household size,8,0.024136879396727595
+3-year,101,w1_partner_yrsed,Partner education,9,0.02376444084230196
+3-year,101,w1_ppincimp,Household income,10,0.022897706682260488
+3-year,101,w1_sex_frequency,Sex frequency,11,0.020829100255917568
+3-year,101,w1_ppwork,Employment,12,0.020057400104385573
+3-year,101,w1_ppeducat,Education,13,0.01888260316983923
+3-year,101,w1_ppp20072,Religious-service attendance,14,0.014034228974865275
+3-year,101,w1_PPREG4,Region,15,0.013783400905785179
+3-year,101,w1_either_internet_adjusted,Met online,16,0.012896856776307137
+3-year,101,w1_q23,Relative earnings,17,0.012877486588449004
+3-year,101,w1_same_sex_couple,Same-sex couple,18,0.012505478667287726
+3-year,101,w1_ppethm,Race/ethnicity,19,0.009215073684274851
+3-year,101,w1_ppgender,Gender,20,0.008885992395106065
+3-year,101,w1_q24_met_through_friend,Met through friend,21,0.007947572944830351
+3-year,101,w1_interracial_5cat,Interracial couple,22,0.006040627834387221
+3-year,101,w1_q24_met_through_family,Met through family,23,0.004852197861498243
+3-year,101,w1_q24_met_as_through_cowork,Met through coworker,24,0.004678144871371791
+3-year,101,w1_q24_church,Met through church,25,0.00112045503175955
+3-year,102,w1_q19,Lives with partner,1,0.26076422218111006
+3-year,102,w1_relate_duration_in2017_years,Relationship duration,2,0.12064756993388594
+3-year,102,w1_partnership_status_cohab,Relationship arrangement,3,0.11739025130025228
+3-year,102,w1_q34_reduced,Relationship quality,4,0.0989685648651216
+3-year,102,w1_q9,Partner age,5,0.07625039601213827
+3-year,102,w1_q17,Prior marriages,6,0.0557667474834551
+3-year,102,w1_ppage,Age,7,0.04619839931177712
+3-year,102,w1_ppincimp,Household income,8,0.023567022466491564
+3-year,102,w1_partner_yrsed,Partner education,9,0.023328037408661833
+3-year,102,w1_pphhsize,Household size,10,0.0219919435754299
+3-year,102,w1_ppp20072,Religious-service attendance,11,0.017693256682601348
+3-year,102,w1_ppeducat,Education,12,0.01546152550198614
+3-year,102,w1_ppwork,Employment,13,0.015443817617025018
+3-year,102,w1_sex_frequency,Sex frequency,14,0.015436628804228433
+3-year,102,w1_PPREG4,Region,15,0.012726536035180435
+3-year,102,w1_either_internet_adjusted,Met online,16,0.01239541037941988
+3-year,102,w1_same_sex_couple,Same-sex couple,17,0.010453801781803627
+3-year,102,w1_ppgender,Gender,18,0.01034692194095773
+3-year,102,w1_q23,Relative earnings,19,0.009937872980344731
+3-year,102,w1_ppethm,Race/ethnicity,20,0.00978215725605887
+3-year,102,w1_q24_met_through_friend,Met through friend,21,0.009313409487999056
+3-year,102,w1_interracial_5cat,Interracial couple,22,0.005274458688054304
+3-year,102,w1_q24_met_as_through_cowork,Met through coworker,23,0.0046692350244036925
+3-year,102,w1_q24_met_through_family,Met through family,24,0.004299654741850242
+3-year,102,w1_q24_church,Met through church,25,0.0018921585397628088
+3-year,103,w1_q19,Lives with partner,1,0.2139478875857052
+3-year,103,w1_partnership_status_cohab,Relationship arrangement,2,0.15610847777238718
+3-year,103,w1_relate_duration_in2017_years,Relationship duration,3,0.13036470171831263
+3-year,103,w1_q34_reduced,Relationship quality,4,0.097318703085164
+3-year,103,w1_q9,Partner age,5,0.06264082452842269
+3-year,103,w1_ppage,Age,6,0.059117227201889125
+3-year,103,w1_q17,Prior marriages,7,0.05329425321692922
+3-year,103,w1_pphhsize,Household size,8,0.02028018352693831
+3-year,103,w1_ppincimp,Household income,9,0.020086371971633904
+3-year,103,w1_ppwork,Employment,10,0.01998621718091792
+3-year,103,w1_partner_yrsed,Partner education,11,0.01870377287550132
+3-year,103,w1_ppp20072,Religious-service attendance,12,0.01768324303068905
+3-year,103,w1_ppeducat,Education,13,0.016889790135464513
+3-year,103,w1_sex_frequency,Sex frequency,14,0.016354802148319587
+3-year,103,w1_PPREG4,Region,15,0.015214213044597386
+3-year,103,w1_ppgender,Gender,16,0.01363683005236815
+3-year,103,w1_q24_met_through_friend,Met through friend,17,0.009977118785722789
+3-year,103,w1_ppethm,Race/ethnicity,18,0.009205320739204992
+3-year,103,w1_q23,Relative earnings,19,0.008990730591960662
+3-year,103,w1_either_internet_adjusted,Met online,20,0.008943554277194376
+3-year,103,w1_q24_met_as_through_cowork,Met through coworker,21,0.00794912631093808
+3-year,103,w1_interracial_5cat,Interracial couple,22,0.007479908681097212
+3-year,103,w1_same_sex_couple,Same-sex couple,23,0.007319690005405045
+3-year,103,w1_q24_met_through_family,Met through family,24,0.00486922556012823
+3-year,103,w1_q24_church,Met through church,25,0.0036378259731083586
+3-year,104,w1_q19,Lives with partner,1,0.2643517897618175
+3-year,104,w1_partnership_status_cohab,Relationship arrangement,2,0.14687748606293619
+3-year,104,w1_relate_duration_in2017_years,Relationship duration,3,0.129978318287045
+3-year,104,w1_q34_reduced,Relationship quality,4,0.07162275909251219
+3-year,104,w1_q17,Prior marriages,5,0.06691790816254621
+3-year,104,w1_q9,Partner age,6,0.06076586551319652
+3-year,104,w1_ppage,Age,7,0.04133109578367917
+3-year,104,w1_pphhsize,Household size,8,0.023613524797229172
+3-year,104,w1_ppincimp,Household income,9,0.021157713400267064
+3-year,104,w1_partner_yrsed,Partner education,10,0.01961291820685078
+3-year,104,w1_ppwork,Employment,11,0.018456226826463983
+3-year,104,w1_ppeducat,Education,12,0.016632070639366017
+3-year,104,w1_ppp20072,Religious-service attendance,13,0.01607545575633029
+3-year,104,w1_PPREG4,Region,14,0.013427934621402626
+3-year,104,w1_sex_frequency,Sex frequency,15,0.012534109713944894
+3-year,104,w1_either_internet_adjusted,Met online,16,0.011683954510726267
+3-year,104,w1_ppethm,Race/ethnicity,17,0.01119754272700927
+3-year,104,w1_q23,Relative earnings,18,0.010220477308084666
+3-year,104,w1_same_sex_couple,Same-sex couple,19,0.009943848279076184
+3-year,104,w1_ppgender,Gender,20,0.009013398685986013
+3-year,104,w1_q24_met_through_friend,Met through friend,21,0.00856117617749043
+3-year,104,w1_q24_met_as_through_cowork,Met through coworker,22,0.00533461944541578
+3-year,104,w1_q24_met_through_family,Met through family,23,0.004945285916458723
+3-year,104,w1_interracial_5cat,Interracial couple,24,0.004389678349417265
+3-year,104,w1_q24_church,Met through church,25,0.0013548419747475859
+3-year,105,w1_q19,Lives with partner,1,0.26682410498700504
+3-year,105,w1_partnership_status_cohab,Relationship arrangement,2,0.1407652370655396
+3-year,105,w1_relate_duration_in2017_years,Relationship duration,3,0.11081238866494084
+3-year,105,w1_q34_reduced,Relationship quality,4,0.08915388854541834
+3-year,105,w1_ppage,Age,5,0.06092916045415604
+3-year,105,w1_q9,Partner age,6,0.05977852558922349
+3-year,105,w1_q17,Prior marriages,7,0.054990438966891556
+3-year,105,w1_partner_yrsed,Partner education,8,0.026323720829138912
+3-year,105,w1_ppincimp,Household income,9,0.02329542853690197
+3-year,105,w1_pphhsize,Household size,10,0.021446665852854548
+3-year,105,w1_sex_frequency,Sex frequency,11,0.01772141908086131
+3-year,105,w1_ppwork,Employment,12,0.016628795215630737
+3-year,105,w1_PPREG4,Region,13,0.016336274221070875
+3-year,105,w1_ppeducat,Education,14,0.014755123396144623
+3-year,105,w1_ppp20072,Religious-service attendance,15,0.011408179124307208
+3-year,105,w1_q23,Relative earnings,16,0.010793365284292762
+3-year,105,w1_ppethm,Race/ethnicity,17,0.010286952338693362
+3-year,105,w1_ppgender,Gender,18,0.010242282824777571
+3-year,105,w1_either_internet_adjusted,Met online,19,0.008847075982676839
+3-year,105,w1_q24_met_through_family,Met through family,20,0.006185991349780075
+3-year,105,w1_q24_met_through_friend,Met through friend,21,0.005617186959610689
+3-year,105,w1_q24_met_as_through_cowork,Met through coworker,22,0.005091038582981145
+3-year,105,w1_same_sex_couple,Same-sex couple,23,0.004977113725690745
+3-year,105,w1_interracial_5cat,Interracial couple,24,0.00438249076128642
+3-year,105,w1_q24_church,Met through church,25,0.002407151660125372
+3-year,106,w1_q19,Lives with partner,1,0.253423250074741
+3-year,106,w1_partnership_status_cohab,Relationship arrangement,2,0.15930102631284576
+3-year,106,w1_relate_duration_in2017_years,Relationship duration,3,0.11622289878720737
+3-year,106,w1_q34_reduced,Relationship quality,4,0.08030427224794807
+3-year,106,w1_q17,Prior marriages,5,0.06523582498685712
+3-year,106,w1_q9,Partner age,6,0.061776526954365016
+3-year,106,w1_ppage,Age,7,0.046298608170481065
+3-year,106,w1_partner_yrsed,Partner education,8,0.02138903851851282
+3-year,106,w1_ppincimp,Household income,9,0.021352616835860046
+3-year,106,w1_ppeducat,Education,10,0.020076801889591232
+3-year,106,w1_sex_frequency,Sex frequency,11,0.019783351864755955
+3-year,106,w1_pphhsize,Household size,12,0.019441766569171248
+3-year,106,w1_ppp20072,Religious-service attendance,13,0.01493171810140807
+3-year,106,w1_PPREG4,Region,14,0.014386715286742964
+3-year,106,w1_ppwork,Employment,15,0.013484645721967732
+3-year,106,w1_q23,Relative earnings,16,0.011808581564911763
+3-year,106,w1_ppethm,Race/ethnicity,17,0.010468725356115099
+3-year,106,w1_ppgender,Gender,18,0.010040398302185678
+3-year,106,w1_q24_met_through_friend,Met through friend,19,0.008688244627881528
+3-year,106,w1_same_sex_couple,Same-sex couple,20,0.008426660189221353
+3-year,106,w1_either_internet_adjusted,Met online,21,0.008162517277709485
+3-year,106,w1_q24_met_as_through_cowork,Met through coworker,22,0.004455187484680077
+3-year,106,w1_q24_met_through_family,Met through family,23,0.004096972793127828
+3-year,106,w1_interracial_5cat,Interracial couple,24,0.0037078487948963767
+3-year,106,w1_q24_church,Met through church,25,0.002735801286815249
+3-year,107,w1_q19,Lives with partner,1,0.249887419250034
+3-year,107,w1_partnership_status_cohab,Relationship arrangement,2,0.1290756564404485
+3-year,107,w1_relate_duration_in2017_years,Relationship duration,3,0.11199471358004935
+3-year,107,w1_q9,Partner age,4,0.09035765152586933
+3-year,107,w1_q34_reduced,Relationship quality,5,0.08253603509396018
+3-year,107,w1_ppage,Age,6,0.049222827084391275
+3-year,107,w1_q17,Prior marriages,7,0.043285134685222305
+3-year,107,w1_pphhsize,Household size,8,0.025405465199451537
+3-year,107,w1_ppwork,Employment,9,0.023798211045245626
+3-year,107,w1_ppeducat,Education,10,0.022092239477310528
+3-year,107,w1_ppincimp,Household income,11,0.02121749109580264
+3-year,107,w1_sex_frequency,Sex frequency,12,0.01895235699864061
+3-year,107,w1_partner_yrsed,Partner education,13,0.017369212869044255
+3-year,107,w1_ppgender,Gender,14,0.015441858011679046
+3-year,107,w1_either_internet_adjusted,Met online,15,0.015264451771224223
+3-year,107,w1_PPREG4,Region,16,0.014704478833187762
+3-year,107,w1_ppp20072,Religious-service attendance,17,0.014392844947183712
+3-year,107,w1_ppethm,Race/ethnicity,18,0.011343944254752642
+3-year,107,w1_q23,Relative earnings,19,0.010121989895903453
+3-year,107,w1_q24_met_through_friend,Met through friend,20,0.009686437142203286
+3-year,107,w1_same_sex_couple,Same-sex couple,21,0.006475053305412552
+3-year,107,w1_q24_met_as_through_cowork,Met through coworker,22,0.005986902513272189
+3-year,107,w1_q24_met_through_family,Met through family,23,0.005429176103008361
+3-year,107,w1_interracial_5cat,Interracial couple,24,0.0037962787292162396
+3-year,107,w1_q24_church,Met through church,25,0.0021621701474864503
+3-year,108,w1_q19,Lives with partner,1,0.24027839285382646
+3-year,108,w1_partnership_status_cohab,Relationship arrangement,2,0.16084960584783678
+3-year,108,w1_relate_duration_in2017_years,Relationship duration,3,0.1113313293504798
+3-year,108,w1_q34_reduced,Relationship quality,4,0.07970355020968752
+3-year,108,w1_q17,Prior marriages,5,0.07857873371148648
+3-year,108,w1_q9,Partner age,6,0.0545787102224235
+3-year,108,w1_ppage,Age,7,0.04592077211898381
+3-year,108,w1_pphhsize,Household size,8,0.025908335157720137
+3-year,108,w1_ppwork,Employment,9,0.020980185754334506
+3-year,108,w1_ppincimp,Household income,10,0.01970277276762519
+3-year,108,w1_partner_yrsed,Partner education,11,0.01914787566322267
+3-year,108,w1_ppeducat,Education,12,0.017506993148943016
+3-year,108,w1_sex_frequency,Sex frequency,13,0.015219504554798933
+3-year,108,w1_PPREG4,Region,14,0.013678910577938252
+3-year,108,w1_ppp20072,Religious-service attendance,15,0.01272739951250736
+3-year,108,w1_ppethm,Race/ethnicity,16,0.012538837418845924
+3-year,108,w1_ppgender,Gender,17,0.012536019798642745
+3-year,108,w1_q24_met_through_friend,Met through friend,18,0.011909123520776312
+3-year,108,w1_q23,Relative earnings,19,0.011580872980303481
+3-year,108,w1_either_internet_adjusted,Met online,20,0.008432204741042499
+3-year,108,w1_q24_met_as_through_cowork,Met through coworker,21,0.006141415143732043
+3-year,108,w1_same_sex_couple,Same-sex couple,22,0.005929961102792564
+3-year,108,w1_q24_met_through_family,Met through family,23,0.005814821878664658
+3-year,108,w1_interracial_5cat,Interracial couple,24,0.005396315629700717
+3-year,108,w1_q24_church,Met through church,25,0.0036073563336848644
+3-year,109,w1_q19,Lives with partner,1,0.2376776499817731
+3-year,109,w1_partnership_status_cohab,Relationship arrangement,2,0.13893072890464708
+3-year,109,w1_relate_duration_in2017_years,Relationship duration,3,0.10015260430268562
+3-year,109,w1_q17,Prior marriages,4,0.07690887506645626
+3-year,109,w1_q34_reduced,Relationship quality,5,0.07107060828377075
+3-year,109,w1_q9,Partner age,6,0.06784788723108127
+3-year,109,w1_ppage,Age,7,0.058410021588761234
+3-year,109,w1_pphhsize,Household size,8,0.02640097940011079
+3-year,109,w1_ppincimp,Household income,9,0.026298222582618314
+3-year,109,w1_ppwork,Employment,10,0.023548176889391252
+3-year,109,w1_sex_frequency,Sex frequency,11,0.018671157446361074
+3-year,109,w1_ppeducat,Education,12,0.01845178873341631
+3-year,109,w1_partner_yrsed,Partner education,13,0.017464666233052872
+3-year,109,w1_ppethm,Race/ethnicity,14,0.01693128517992308
+3-year,109,w1_PPREG4,Region,15,0.015567467698243426
+3-year,109,w1_ppp20072,Religious-service attendance,16,0.01444253882107829
+3-year,109,w1_q23,Relative earnings,17,0.013334551534550647
+3-year,109,w1_either_internet_adjusted,Met online,18,0.010802527777494433
+3-year,109,w1_q24_met_through_friend,Met through friend,19,0.01042811908171953
+3-year,109,w1_ppgender,Gender,20,0.010124414987919942
+3-year,109,w1_q24_met_through_family,Met through family,21,0.006561781814657587
+3-year,109,w1_q24_met_as_through_cowork,Met through coworker,22,0.00617742773507113
+3-year,109,w1_same_sex_couple,Same-sex couple,23,0.006146600146533742
+3-year,109,w1_interracial_5cat,Interracial couple,24,0.005080084815573701
+3-year,109,w1_q24_church,Met through church,25,0.002569833763108391
+3-year,110,w1_q19,Lives with partner,1,0.23900794414046264
+3-year,110,w1_relate_duration_in2017_years,Relationship duration,2,0.12310040031981262
+3-year,110,w1_partnership_status_cohab,Relationship arrangement,3,0.1228125297444132
+3-year,110,w1_q34_reduced,Relationship quality,4,0.0961193654872847
+3-year,110,w1_ppage,Age,5,0.07052482388416899
+3-year,110,w1_q9,Partner age,6,0.06731782367247414
+3-year,110,w1_q17,Prior marriages,7,0.042937449027878674
+3-year,110,w1_pphhsize,Household size,8,0.026008083498660867
+3-year,110,w1_ppincimp,Household income,9,0.026004212674423266
+3-year,110,w1_partner_yrsed,Partner education,10,0.022825549151224804
+3-year,110,w1_sex_frequency,Sex frequency,11,0.020191897158203083
+3-year,110,w1_ppwork,Employment,12,0.019352815925560214
+3-year,110,w1_ppeducat,Education,13,0.017280743775829187
+3-year,110,w1_ppgender,Gender,14,0.015586766900109027
+3-year,110,w1_PPREG4,Region,15,0.014660092604039734
+3-year,110,w1_ppp20072,Religious-service attendance,16,0.01361878670752125
+3-year,110,w1_q23,Relative earnings,17,0.00991810474088717
+3-year,110,w1_q24_met_through_friend,Met through friend,18,0.00957327937001781
+3-year,110,w1_ppethm,Race/ethnicity,19,0.009549110401101306
+3-year,110,w1_same_sex_couple,Same-sex couple,20,0.007893527352912433
+3-year,110,w1_either_internet_adjusted,Met online,21,0.006749923807886302
+3-year,110,w1_q24_met_as_through_cowork,Met through coworker,22,0.006578689826238812
+3-year,110,w1_interracial_5cat,Interracial couple,23,0.005680150165630684
+3-year,110,w1_q24_met_through_family,Met through family,24,0.004675866395908378
+3-year,110,w1_q24_church,Met through church,25,0.0020320632673507064
+5-year,101,w1_q19,Lives with partner,1,0.2805701539108976
+5-year,101,w1_partnership_status_cohab,Relationship arrangement,2,0.12720423989255444
+5-year,101,w1_relate_duration_in2017_years,Relationship duration,3,0.12042099243383006
+5-year,101,w1_q9,Partner age,4,0.07264564824189523
+5-year,101,w1_q34_reduced,Relationship quality,5,0.07099724437620483
+5-year,101,w1_q17,Prior marriages,6,0.06682527270318987
+5-year,101,w1_ppage,Age,7,0.047578021886287285
+5-year,101,w1_pphhsize,Household size,8,0.022020381863856523
+5-year,101,w1_ppincimp,Household income,9,0.021743510264014523
+5-year,101,w1_sex_frequency,Sex frequency,10,0.01993554766915262
+5-year,101,w1_ppwork,Employment,11,0.019156551093584613
+5-year,101,w1_partner_yrsed,Partner education,12,0.01750602183121777
+5-year,101,w1_ppethm,Race/ethnicity,13,0.013246219336811598
+5-year,101,w1_PPREG4,Region,14,0.012621546103335993
+5-year,101,w1_ppeducat,Education,15,0.01258341605749671
+5-year,101,w1_ppp20072,Religious-service attendance,16,0.012512110598484534
+5-year,101,w1_same_sex_couple,Same-sex couple,17,0.011326310767112303
+5-year,101,w1_q23,Relative earnings,18,0.009648565848120206
+5-year,101,w1_q24_met_through_friend,Met through friend,19,0.0092994922812857
+5-year,101,w1_either_internet_adjusted,Met online,20,0.008890246349002102
+5-year,101,w1_ppgender,Gender,21,0.007658640603630223
+5-year,101,w1_interracial_5cat,Interracial couple,22,0.005621979182040168
+5-year,101,w1_q24_met_as_through_cowork,Met through coworker,23,0.003925109622525704
+5-year,101,w1_q24_met_through_family,Met through family,24,0.003668677404199034
+5-year,101,w1_q24_church,Met through church,25,0.00239409967927041
+5-year,102,w1_q19,Lives with partner,1,0.27614462869152023
+5-year,102,w1_partnership_status_cohab,Relationship arrangement,2,0.14210087543965735
+5-year,102,w1_relate_duration_in2017_years,Relationship duration,3,0.10518536462964626
+5-year,102,w1_q34_reduced,Relationship quality,4,0.10159228535856651
+5-year,102,w1_q9,Partner age,5,0.06228255709194973
+5-year,102,w1_q17,Prior marriages,6,0.05288352598045193
+5-year,102,w1_ppage,Age,7,0.051381144799530765
+5-year,102,w1_pphhsize,Household size,8,0.019050110241235048
+5-year,102,w1_ppwork,Employment,9,0.01863023191141512
+5-year,102,w1_ppincimp,Household income,10,0.01848830394777921
+5-year,102,w1_sex_frequency,Sex frequency,11,0.017235689725273427
+5-year,102,w1_ppeducat,Education,12,0.015443556115448745
+5-year,102,w1_partner_yrsed,Partner education,13,0.014658081867103547
+5-year,102,w1_ppp20072,Religious-service attendance,14,0.014212246357812191
+5-year,102,w1_PPREG4,Region,15,0.013946356186870533
+5-year,102,w1_ppgender,Gender,16,0.011939327781521035
+5-year,102,w1_either_internet_adjusted,Met online,17,0.011313797980288098
+5-year,102,w1_ppethm,Race/ethnicity,18,0.010176836654546856
+5-year,102,w1_q23,Relative earnings,19,0.009232058353546447
+5-year,102,w1_q24_met_through_friend,Met through friend,20,0.00891129723284378
+5-year,102,w1_interracial_5cat,Interracial couple,21,0.006916641927198984
+5-year,102,w1_q24_met_through_family,Met through family,22,0.006884112017315798
+5-year,102,w1_same_sex_couple,Same-sex couple,23,0.00461102232739793
+5-year,102,w1_q24_met_as_through_cowork,Met through coworker,24,0.004261654996308508
+5-year,102,w1_q24_church,Met through church,25,0.0025182923847719687
+5-year,103,w1_q19,Lives with partner,1,0.22511536385831354
+5-year,103,w1_partnership_status_cohab,Relationship arrangement,2,0.16744255953975623
+5-year,103,w1_relate_duration_in2017_years,Relationship duration,3,0.1185494770154411
+5-year,103,w1_q34_reduced,Relationship quality,4,0.0816155249420207
+5-year,103,w1_q17,Prior marriages,5,0.06556018054306308
+5-year,103,w1_ppage,Age,6,0.06043739311013562
+5-year,103,w1_q9,Partner age,7,0.05974771843917119
+5-year,103,w1_ppincimp,Household income,8,0.025370394337477335
+5-year,103,w1_pphhsize,Household size,9,0.021368548749258164
+5-year,103,w1_ppwork,Employment,10,0.019187859294165426
+5-year,103,w1_partner_yrsed,Partner education,11,0.018219402479880107
+5-year,103,w1_ppp20072,Religious-service attendance,12,0.015924402890042492
+5-year,103,w1_ppeducat,Education,13,0.013784656912468968
+5-year,103,w1_ppgender,Gender,14,0.013752620540062648
+5-year,103,w1_q23,Relative earnings,15,0.013377756250189216
+5-year,103,w1_sex_frequency,Sex frequency,16,0.013247762653048957
+5-year,103,w1_q24_met_through_friend,Met through friend,17,0.012765945186812375
+5-year,103,w1_PPREG4,Region,18,0.01159537880860183
+5-year,103,w1_ppethm,Race/ethnicity,19,0.010889916318548793
+5-year,103,w1_q24_met_through_family,Met through family,20,0.007237833932499543
+5-year,103,w1_interracial_5cat,Interracial couple,21,0.007236951909126922
+5-year,103,w1_either_internet_adjusted,Met online,22,0.006933778006649256
+5-year,103,w1_same_sex_couple,Same-sex couple,23,0.005194189820565232
+5-year,103,w1_q24_met_as_through_cowork,Met through coworker,24,0.004035303580657247
+5-year,103,w1_q24_church,Met through church,25,0.001409080882044055
+5-year,104,w1_q19,Lives with partner,1,0.2900941364488928
+5-year,104,w1_partnership_status_cohab,Relationship arrangement,2,0.17612408808909696
+5-year,104,w1_relate_duration_in2017_years,Relationship duration,3,0.09890331754399982
+5-year,104,w1_q34_reduced,Relationship quality,4,0.09726866672023417
+5-year,104,w1_q17,Prior marriages,5,0.04870014654160321
+5-year,104,w1_ppage,Age,6,0.046859977811585324
+5-year,104,w1_q9,Partner age,7,0.04401857079120426
+5-year,104,w1_pphhsize,Household size,8,0.01966013646270767
+5-year,104,w1_partner_yrsed,Partner education,9,0.019658437227018127
+5-year,104,w1_ppincimp,Household income,10,0.01963262949187326
+5-year,104,w1_ppeducat,Education,11,0.016042483010377386
+5-year,104,w1_sex_frequency,Sex frequency,12,0.01576561378104894
+5-year,104,w1_ppp20072,Religious-service attendance,13,0.01402241949357693
+5-year,104,w1_PPREG4,Region,14,0.013791662769108206
+5-year,104,w1_ppwork,Employment,15,0.011608276249651203
+5-year,104,w1_ppgender,Gender,16,0.009638660708410341
+5-year,104,w1_either_internet_adjusted,Met online,17,0.009308782093240809
+5-year,104,w1_q23,Relative earnings,18,0.009083690619700466
+5-year,104,w1_q24_met_through_friend,Met through friend,19,0.008110448858511051
+5-year,104,w1_q24_church,Met through church,20,0.00658539869689119
+5-year,104,w1_ppethm,Race/ethnicity,21,0.0059843945415888385
+5-year,104,w1_q24_met_through_family,Met through family,22,0.005792960001005652
+5-year,104,w1_same_sex_couple,Same-sex couple,23,0.00537715623218057
+5-year,104,w1_interracial_5cat,Interracial couple,24,0.005276979548460359
+5-year,104,w1_q24_met_as_through_cowork,Met through coworker,25,0.0026909662680324803
+5-year,105,w1_q19,Lives with partner,1,0.22082876171535104
+5-year,105,w1_partnership_status_cohab,Relationship arrangement,2,0.13968575543097378
+5-year,105,w1_relate_duration_in2017_years,Relationship duration,3,0.13325990655523975
+5-year,105,w1_q34_reduced,Relationship quality,4,0.08368725372979746
+5-year,105,w1_q17,Prior marriages,5,0.08076486897467204
+5-year,105,w1_q9,Partner age,6,0.06503144238102204
+5-year,105,w1_ppage,Age,7,0.06467185392124614
+5-year,105,w1_partner_yrsed,Partner education,8,0.02212887879170086
+5-year,105,w1_ppincimp,Household income,9,0.020170139882716605
+5-year,105,w1_ppwork,Employment,10,0.01896999938641964
+5-year,105,w1_pphhsize,Household size,11,0.017017713138085318
+5-year,105,w1_ppp20072,Religious-service attendance,12,0.016500469426156402
+5-year,105,w1_sex_frequency,Sex frequency,13,0.016042837510085624
+5-year,105,w1_PPREG4,Region,14,0.014278505039603092
+5-year,105,w1_ppeducat,Education,15,0.013483682103015468
+5-year,105,w1_ppgender,Gender,16,0.012719591626844001
+5-year,105,w1_q23,Relative earnings,17,0.010864350593161055
+5-year,105,w1_either_internet_adjusted,Met online,18,0.009063505237068153
+5-year,105,w1_ppethm,Race/ethnicity,19,0.008597922499568512
+5-year,105,w1_q24_met_through_friend,Met through friend,20,0.007504113212862894
+5-year,105,w1_q24_met_through_family,Met through family,21,0.005587022753550587
+5-year,105,w1_q24_met_as_through_cowork,Met through coworker,22,0.005561908974204893
+5-year,105,w1_q24_church,Met through church,23,0.005397650127319152
+5-year,105,w1_interracial_5cat,Interracial couple,24,0.005212508334804875
+5-year,105,w1_same_sex_couple,Same-sex couple,25,0.0029693586545306606
+5-year,106,w1_q19,Lives with partner,1,0.2222257163185157
+5-year,106,w1_partnership_status_cohab,Relationship arrangement,2,0.17364300562111393
+5-year,106,w1_relate_duration_in2017_years,Relationship duration,3,0.14181913357793338
+5-year,106,w1_q34_reduced,Relationship quality,4,0.0899120072319111
+5-year,106,w1_q17,Prior marriages,5,0.0715447262321539
+5-year,106,w1_q9,Partner age,6,0.05496258452154602
+5-year,106,w1_ppage,Age,7,0.04433279908877547
+5-year,106,w1_ppincimp,Household income,8,0.020939374435765528
+5-year,106,w1_pphhsize,Household size,9,0.020137471945536372
+5-year,106,w1_ppwork,Employment,10,0.01723370032477851
+5-year,106,w1_ppgender,Gender,11,0.015141258688581356
+5-year,106,w1_sex_frequency,Sex frequency,12,0.014193055175473814
+5-year,106,w1_partner_yrsed,Partner education,13,0.013383866038236865
+5-year,106,w1_ppp20072,Religious-service attendance,14,0.013267155006349667
+5-year,106,w1_ppeducat,Education,15,0.013039196794729577
+5-year,106,w1_PPREG4,Region,16,0.012476735559753257
+5-year,106,w1_ppethm,Race/ethnicity,17,0.010474149526871904
+5-year,106,w1_q23,Relative earnings,18,0.009969675591338635
+5-year,106,w1_interracial_5cat,Interracial couple,19,0.008808768119606361
+5-year,106,w1_either_internet_adjusted,Met online,20,0.008158120120584936
+5-year,106,w1_q24_met_through_friend,Met through friend,21,0.006941264346382528
+5-year,106,w1_same_sex_couple,Same-sex couple,22,0.0064423722109551345
+5-year,106,w1_q24_met_as_through_cowork,Met through coworker,23,0.004659572876075122
+5-year,106,w1_q24_met_through_family,Met through family,24,0.0037704901983739714
+5-year,106,w1_q24_church,Met through church,25,0.002523800448657069
+5-year,107,w1_q19,Lives with partner,1,0.23347490281686079
+5-year,107,w1_relate_duration_in2017_years,Relationship duration,2,0.1418552229298216
+5-year,107,w1_partnership_status_cohab,Relationship arrangement,3,0.12765423672821824
+5-year,107,w1_q9,Partner age,4,0.07855767860136327
+5-year,107,w1_q34_reduced,Relationship quality,5,0.07064167178518871
+5-year,107,w1_q17,Prior marriages,6,0.06368234564009784
+5-year,107,w1_ppage,Age,7,0.04920857576518359
+5-year,107,w1_ppwork,Employment,8,0.02431127313767488
+5-year,107,w1_partner_yrsed,Partner education,9,0.02096089596253056
+5-year,107,w1_ppincimp,Household income,10,0.0199670771043605
+5-year,107,w1_pphhsize,Household size,11,0.019953675419583296
+5-year,107,w1_sex_frequency,Sex frequency,12,0.018569635770669564
+5-year,107,w1_PPREG4,Region,13,0.01616160443924732
+5-year,107,w1_ppp20072,Religious-service attendance,14,0.014344277498380888
+5-year,107,w1_ppgender,Gender,15,0.014105846919296505
+5-year,107,w1_ppeducat,Education,16,0.014020966262569346
+5-year,107,w1_either_internet_adjusted,Met online,17,0.011991363799350199
+5-year,107,w1_q23,Relative earnings,18,0.011869584473435502
+5-year,107,w1_ppethm,Race/ethnicity,19,0.010746638546150539
+5-year,107,w1_same_sex_couple,Same-sex couple,20,0.010446717716655098
+5-year,107,w1_q24_met_through_friend,Met through friend,21,0.00692193935549186
+5-year,107,w1_interracial_5cat,Interracial couple,22,0.006834535135743376
+5-year,107,w1_q24_met_through_family,Met through family,23,0.005937245289749218
+5-year,107,w1_q24_met_as_through_cowork,Met through coworker,24,0.003922167558676411
+5-year,107,w1_q24_church,Met through church,25,0.0038599213437010426
+5-year,108,w1_q19,Lives with partner,1,0.26284626467218586
+5-year,108,w1_partnership_status_cohab,Relationship arrangement,2,0.15765144316052054
+5-year,108,w1_relate_duration_in2017_years,Relationship duration,3,0.10731802201890635
+5-year,108,w1_q34_reduced,Relationship quality,4,0.09337483125961543
+5-year,108,w1_q9,Partner age,5,0.06699183676680996
+5-year,108,w1_q17,Prior marriages,6,0.058279373143732334
+5-year,108,w1_ppage,Age,7,0.05042117583951556
+5-year,108,w1_pphhsize,Household size,8,0.02299736746578566
+5-year,108,w1_ppincimp,Household income,9,0.018576598730088233
+5-year,108,w1_ppwork,Employment,10,0.018199355678398105
+5-year,108,w1_sex_frequency,Sex frequency,11,0.01584776840037786
+5-year,108,w1_partner_yrsed,Partner education,12,0.01581507727815988
+5-year,108,w1_PPREG4,Region,13,0.014115352125348334
+5-year,108,w1_ppgender,Gender,14,0.012992614659898429
+5-year,108,w1_ppp20072,Religious-service attendance,15,0.01292408095967872
+5-year,108,w1_ppeducat,Education,16,0.012384905714635512
+5-year,108,w1_q23,Relative earnings,17,0.010512568385050911
+5-year,108,w1_ppethm,Race/ethnicity,18,0.010027028199984822
+5-year,108,w1_q24_met_through_friend,Met through friend,19,0.009048129146918538
+5-year,108,w1_interracial_5cat,Interracial couple,20,0.008820253078574678
+5-year,108,w1_same_sex_couple,Same-sex couple,21,0.00679418513264287
+5-year,108,w1_either_internet_adjusted,Met online,22,0.005409492728179588
+5-year,108,w1_q24_met_as_through_cowork,Met through coworker,23,0.00345758453162983
+5-year,108,w1_q24_met_through_family,Met through family,24,0.0031512696119037568
+5-year,108,w1_q24_church,Met through church,25,0.0020434213114581233
+5-year,109,w1_q19,Lives with partner,1,0.2542701762630307
+5-year,109,w1_partnership_status_cohab,Relationship arrangement,2,0.15911715132068854
+5-year,109,w1_q34_reduced,Relationship quality,3,0.09591123475715077
+5-year,109,w1_q17,Prior marriages,4,0.08208810460541019
+5-year,109,w1_relate_duration_in2017_years,Relationship duration,5,0.06934261342801373
+5-year,109,w1_q9,Partner age,6,0.06486965295776467
+5-year,109,w1_ppage,Age,7,0.05317946920434117
+5-year,109,w1_pphhsize,Household size,8,0.02787397019014321
+5-year,109,w1_ppwork,Employment,9,0.02037120107313964
+5-year,109,w1_ppincimp,Household income,10,0.019700094723508504
+5-year,109,w1_PPREG4,Region,11,0.016456524326099595
+5-year,109,w1_ppp20072,Religious-service attendance,12,0.016208641134009057
+5-year,109,w1_partner_yrsed,Partner education,13,0.015660989531567113
+5-year,109,w1_sex_frequency,Sex frequency,14,0.014520106916318283
+5-year,109,w1_ppgender,Gender,15,0.014463121305751362
+5-year,109,w1_q23,Relative earnings,16,0.012130880943865389
+5-year,109,w1_ppeducat,Education,17,0.012032670395069249
+5-year,109,w1_q24_met_through_friend,Met through friend,18,0.009371696830643785
+5-year,109,w1_q24_met_through_family,Met through family,19,0.008254662616876195
+5-year,109,w1_either_internet_adjusted,Met online,20,0.007459797031272187
+5-year,109,w1_same_sex_couple,Same-sex couple,21,0.007221495145701728
+5-year,109,w1_interracial_5cat,Interracial couple,22,0.007116174349098604
+5-year,109,w1_ppethm,Race/ethnicity,23,0.006548961788286061
+5-year,109,w1_q24_met_as_through_cowork,Met through coworker,24,0.0030864134812379155
+5-year,109,w1_q24_church,Met through church,25,0.002744195681012445
+5-year,110,w1_q19,Lives with partner,1,0.2828879611266675
+5-year,110,w1_partnership_status_cohab,Relationship arrangement,2,0.15723794622978443
+5-year,110,w1_relate_duration_in2017_years,Relationship duration,3,0.12799771204948193
+5-year,110,w1_q34_reduced,Relationship quality,4,0.07272269093479164
+5-year,110,w1_ppage,Age,5,0.060370022951807566
+5-year,110,w1_q9,Partner age,6,0.05938296172365705
+5-year,110,w1_q17,Prior marriages,7,0.039470955145614696
+5-year,110,w1_pphhsize,Household size,8,0.02572752911895689
+5-year,110,w1_ppwork,Employment,9,0.020150668626979076
+5-year,110,w1_ppincimp,Household income,10,0.016679289461343637
+5-year,110,w1_partner_yrsed,Partner education,11,0.016661768580497463
+5-year,110,w1_sex_frequency,Sex frequency,12,0.015419495339031506
+5-year,110,w1_ppp20072,Religious-service attendance,13,0.014619486868372372
+5-year,110,w1_PPREG4,Region,14,0.011960109885749047
+5-year,110,w1_ppeducat,Education,15,0.011819500797048155
+5-year,110,w1_q23,Relative earnings,16,0.010010861343954633
+5-year,110,w1_same_sex_couple,Same-sex couple,17,0.008542190280594691
+5-year,110,w1_ppgender,Gender,18,0.00834821645498374
+5-year,110,w1_ppethm,Race/ethnicity,19,0.008186328169598843
+5-year,110,w1_interracial_5cat,Interracial couple,20,0.008033837313821738
+5-year,110,w1_either_internet_adjusted,Met online,21,0.00731929928202249
+5-year,110,w1_q24_met_through_family,Met through family,22,0.006099199259225436
+5-year,110,w1_q24_met_through_friend,Met through friend,23,0.005176098179386194
+5-year,110,w1_q24_met_as_through_cowork,Met through coworker,24,0.0036878421824810773
+5-year,110,w1_q24_church,Met through church,25,0.0014880286941482475
